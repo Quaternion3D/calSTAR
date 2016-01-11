@@ -1,5 +1,48 @@
+.headshots {
+  height:200px;
+  width:200px;
+}
+
 body {
   padding-top: 20px;
+  background: url(img/background3_1.png) repeat 0 0;
+  /*background3_6 is same but smaller*/
+}
+
+h1 {
+  font-family: 'Russo One', Helvetica, Arial, sans-serif;
+  font-size: 70px;
+  line-height: 75px;
+}
+
+h2 {
+  font-family: 'Russo One', Helvetica, Arial, sans-serif;
+  font-size: 40px;
+  line-height: 45px;
+}
+
+h3 {
+  font-family: 'Russo One', Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  line-height: 35px;
+}
+
+h4 {
+  font-family: 'Russo One', Helvetica, Arial, sans-serif;
+  font-size: 40px;
+  line-height: 45px;
+}
+
+p {
+  font-family: 'Ubuntu', Georgia, Times, serif;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+li a {
+  font-family: 'Ubuntu', Georgia, Times, serif;
+  font-size: 20px;
+  line-height: 25px;
 }
 
 .footer {
